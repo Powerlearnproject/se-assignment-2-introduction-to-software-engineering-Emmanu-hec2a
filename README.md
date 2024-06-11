@@ -18,9 +18,7 @@ Software Development Life Cycle (SDLC):_
   SDLC :
   
      Analysis:
-     
-       In this phase, the needs of the users and other stakeholders are gathered and documented. This phase involves feasibility studies, risk analysis, and requirements specification.
-    
+        In this phase, the needs of the users and other stakeholders are gathered and documented. This phase involves feasibility studies, risk analysis, and requirements specification.
     Design:
         The design phase involves creating the architecture of the software system. This includes defining the system components, their interfaces, and data flows. High-level design (HLD) and low-level design (LLD) are created during this phase.
     Emplementation (Coding):
