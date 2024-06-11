@@ -81,8 +81,7 @@ Software Design Principles:_
           Specification: Documenting the requirements in a clear and detailed manner, often using use cases, user stories, and requirement specifications.
           Validation: Ensuring the requirements accurately reflect stakeholder needs and are achievable within the project constraints.
           Management: Tracking and managing changes to requirements throughout the project lifecycle.
-   
-   Importance: Requirements engineering is crucial because it lays the foundation for all subsequent development activities.
+      Importance: Requirements engineering is crucial because it lays the foundation for all subsequent development activities.
 
 **Question 6:**
 _Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?:_
