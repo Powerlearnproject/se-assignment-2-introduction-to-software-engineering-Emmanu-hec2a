@@ -36,17 +36,21 @@ Software Development Life Cycle (SDLC):_
    Deployment:
    
       In the deployment phase, the software is delivered to the users and installed in their environment. This may include configuring hardware and software, training users, and providing support.
+   
    Maintenance:
+   
       After deployment, the software enters the maintenance phase, where it is updated and improved based on user feedback, bug reports, and changing requirements. Maintenance includes corrective, adaptive, perfective, and preventive activities.
 
 **Question 3:**
 _Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:_
+ 
  Waterfall Model:
       Sequential Process: The Waterfall model follows a linear, sequential approach where each phase must be completed before moving to the next.
       Documentation Heavy: Emphasizes thorough documentation and formal reviews at each stage.
       Less Flexible: Changes are difficult to implement once the process is underway.
       Preferred Scenarios: Suitable for projects with well-defined requirements and low uncertainty, such as regulatory and compliance-driven projects.
+
 Agile Model:
       Iterative Process: Agile follows an iterative and incremental approach, where development is divided into small, manageable units called sprints.
       Customer Collaboration: Emphasizes continuous customer involvement and feedback.
@@ -56,26 +60,33 @@ Agile Model:
 **Question 4:**
 _Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:_
+
 Agile Model:
    Preferred Scenarios: Ideal for projects with evolving requirements, high uncertainty, and a need for rapid delivery, such as startups and dynamic business environments.
+
 Waterfall Model:
    Preferred Scenarios: Suitable for projects with well-defined requirements and low uncertainty, such as regulatory and compliance-driven projects.
 
 **Question 5:**
 _What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:_
+   
     Requirements Engineering is the process of defining, documenting, and maintaining the requirements for a software system.
+       
        Key activities:
           Elicitation: Gathering requirements from stakeholders through interviews, surveys, and observation.
           Analysis: Refining and prioritizing requirements to ensure they are feasible and aligned with business goals.
           Specification: Documenting the requirements in a clear and detailed manner, often using use cases, user stories, and requirement specifications.
           Validation: Ensuring the requirements accurately reflect stakeholder needs and are achievable within the project constraints.
           Management: Tracking and managing changes to requirements throughout the project lifecycle.
+   
    Importance: Requirements engineering is crucial because it lays the foundation for all subsequent development activities.
 
 **Question 6:**
 _Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?:_
+   
      Modularity refers to dividing a software system into discrete, independent modules, each responsible for a specific aspect of the system's functionality. Each module can be developed, tested, and maintained separately.
+    
      Benefits:
           Maintainability: Modular systems are easier to understand, debug, and modify because changes in one module have minimal impact on others.
           Scalability: New features or components can be added without affecting the entire system, making it easier to scale the software.
@@ -84,7 +95,9 @@ _Explain the concept of modularity in software design. How does it improve maint
 
 **Question 7:**
 _Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?:_
+
 Testing in Software Engineering:
+       
         Unit Testing:
             Focuses on individual components or functions to ensure they work correctly in isolation. Typically performed by developers.
         Integration Testing:
@@ -97,6 +110,7 @@ Testing in Software Engineering:
 **Question 8:**
 _What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:_
+    
       Version Control Systems (VCS) are tools that manage changes to source code over time. They track modifications, enable collaboration, and maintain a history of changes.
           Importance:
                Collaboration: Multiple developers can work on the same project simultaneously without overwriting each other's changes.
@@ -110,6 +124,7 @@ Software Project Management:_
 **Question 9:**
 _Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:_
+    
       Role of a Software Project Manager:
       A software project manager oversees the planning, execution, and delivery of software projects. They ensure that the project is completed on time, within budget, and meets the required quality standards.
 
@@ -129,6 +144,7 @@ Software Maintenance:_
         
 **Question 10:**         
 _Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?:_
+    
      Software Maintenance involves updating and improving software after it has been deployed. It ensures the software remains functional, secure, and relevant over time.
      Types of Maintenance:
           Corrective Maintenance:
@@ -147,6 +163,7 @@ _Define software maintenance and explain the different types of maintenance acti
 
 **Question 11:**
 _What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?_
+      
       Ethical Issues:
             Privacy: Handling user data responsibly and protecting it from unauthorized access.
             Security: Ensuring software is secure and free from vulnerabilities.
