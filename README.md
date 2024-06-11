@@ -46,12 +46,14 @@ _Explain the various phases of the Software Development Life Cycle. Provide a br
 Agile vs. Waterfall Models:_
  
  Waterfall Model:
+     
       Sequential Process: The Waterfall model follows a linear, sequential approach where each phase must be completed before moving to the next.
       Documentation Heavy: Emphasizes thorough documentation and formal reviews at each stage.
       Less Flexible: Changes are difficult to implement once the process is underway.
       Preferred Scenarios: Suitable for projects with well-defined requirements and low uncertainty, such as regulatory and compliance-driven projects.
 
 Agile Model:
+      
       Iterative Process: Agile follows an iterative and incremental approach, where development is divided into small, manageable units called sprints.
       Customer Collaboration: Emphasizes continuous customer involvement and feedback.
       Highly Flexible: Easily accommodates changes throughout the development process.
@@ -61,11 +63,11 @@ Agile Model:
 _Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:_
 
-Agile Model:
-   Preferred Scenarios: Ideal for projects with evolving requirements, high uncertainty, and a need for rapid delivery, such as startups and dynamic business environments.
+    Agile Model:
+        Preferred Scenarios: Ideal for projects with evolving requirements, high uncertainty, and a need for rapid delivery, such as startups and dynamic business environments.
 
-Waterfall Model:
-   Preferred Scenarios: Suitable for projects with well-defined requirements and low uncertainty, such as regulatory and compliance-driven projects.
+    Waterfall Model:
+        Preferred Scenarios: Suitable for projects with well-defined requirements and low uncertainty, such as regulatory and compliance-driven projects.
 
 **Question 5:**
 _What is requirements engineering? Describe the process and its importance in the software development lifecycle.
