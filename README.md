@@ -25,12 +25,12 @@ Software Development Life Cycle (SDLC):_
         The design phase involves creating the architecture of the software system. This includes defining the system components, their interfaces, and data flows. High-level design (HLD) and low-level design (LLD) are created during this phase.
     Emplementation (Coding):
         During implementation, the design is translated into executable code. Programmers write code in the chosen programming language(s), following the design specifications.
-   Testing:
-       The testing phase involves verifying that the software works as intended. Various types of testing (unit, integration, system, acceptance) are conducted to identify and fix defects.
-   Deployment:
-       In the deployment phase, the software is delivered to the users and installed in their environment. This may include configuring hardware and software, training users, and providing support.
-   Maintenance:
-       After deployment, the software enters the maintenance phase, where it is updated and improved based on user feedback, bug reports, and changing requirements. Maintenance includes corrective, adaptive, perfective, and preventive activities.
+    Testing:
+        The testing phase involves verifying that the software works as intended. Various types of testing (unit, integration, system, acceptance) are conducted to identify and fix defects.
+    Deployment:
+        In the deployment phase, the software is delivered to the users and installed in their environment. This may include configuring hardware and software, training users, and providing support.
+    Maintenance:
+        After deployment, the software enters the maintenance phase, where it is updated and improved based on user feedback, bug reports, and changing requirements. Maintenance includes corrective, adaptive, perfective, and preventive activities.
 
 **Question 3:**
 _Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
